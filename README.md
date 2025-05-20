@@ -19,10 +19,10 @@ Many companies have thousands of customers, but not all of them behave the same.
 ## 📦 Dataset
 The dataset used for this analysis is available in the repository:
 
-- [`Customer_Segmentation_Data.csv`](./Customer_Segmentation_Data.csv)
+- [`Customer_Segmentation_Data.csv`](https://github.com/Jcboy101/Customer-Segmentation-Analysis/blob/main/Customer%20Segmentation%20Analysis.ipynb)
 
 
-- Source: Online Retail II data from UCI ML Repository  
+- Source: [Uc Irvin Machine Learning Repository](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2dUeE9sd25UV3JiLUo0OWFvZ2VWQ1NORm9EZ3xBQ3Jtc0ttdHljY3ZhYkhfdmp5MGxaQWd5Q2JmWU5PMzE1WFFuT3U2M2tXVWZIZXNxeHFMRmxDZm10c1FoZFdFeW1PQ1V3UFVDX1h1SGNvTEd3dGZUWEl0TFgweEd0cGhKb1plT0hBdjU3UmQ0VDg0UDlmM1doWQ&q=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F502%2Fonline%2Bretail%2Bii&v=afPJeQuVeuY)  
 - Shape: ~540,000 transactions
 - Fields:
   - `InvoiceDate`: Date of transaction
