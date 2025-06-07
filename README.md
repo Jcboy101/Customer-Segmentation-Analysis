@@ -119,7 +119,7 @@ This helped validate cluster compactness and identify inconsistent segments.
 
 | Cluster | Behavior                            | Description                        | Strategy                     |
 |---------|-------------------------------------|------------------------------------|------------------------------|
-| 0       |Low Recency, Low Frequency, Low Monetary |  Inactive or Lapsed Users                   Re-Engage           |
+| 0       |Low Recency, Low Frequency, Low Monetary |  Inactive or Lapsed Users     |              Re-Engage           |
 | 1       |  High Recency, High Frequency, High Monetary | Most Loyal              | Reward  |
 | 2       |  Low Recency, Low Monetary,  Recent Purchase  | First-time buyers         | Onboarding and nurturing      |
 | 3       | Low Recency, High Monetary,  High Frequency | High Valued              | Retain|
